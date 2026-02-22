@@ -8,13 +8,6 @@
 
 *Every message, purposefully delivered.*
 
----
-
-[![License](https://img.shields.io/badge/license-MIT-7b35c1?style=flat-square)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-.NET%208-e8820c?style=flat-square)](https://dotnet.microsoft.com)
-[![Status](https://img.shields.io/badge/status-building%20in%20public-f5b942?style=flat-square)](#roadmap)
-[![Made with](https://img.shields.io/badge/made%20with-purpose-7b35c1?style=flat-square)](#philosophy)
-
 </div>
 
 ---
